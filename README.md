@@ -8,6 +8,9 @@ This project is to do a research about people whom the Pewlett Hackard company e
 
 Inspect the CSV files, and then sketch an ERD of the tables. To create the sketch, feel free to use a tool like QuickDBD
 
+![ERD](https://github.com/MahsaHesam/sql-challenge/assets/70048005/500ef1c5-ce9d-4878-8f83-f87f0d4364d8)
+
+
 **Data Engineering**
 
 - Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
