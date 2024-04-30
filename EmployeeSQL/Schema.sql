@@ -51,11 +51,11 @@ Create table employees(
 	Foreign key (emp_title_id) references titles(title_id),
 	emp_no Int Not Null,
 	emp_title_id Varchar(30),
-	birth_date Varchar(10) Not Null,
+	birth_date Date Not Null,
 	first_name varchar(30) Not Null,
 	last_name Varchar(30) Not Null,
 	sex char Not Null,
-	hire_date Varchar(10) Not Null
+	hire_date Date Not Null
 );	
 
 -- Creating tables for Salaries
